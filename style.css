@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(125, 125, 125);
+}
+
+.main-card {
+  margin-top: 20%;
+}
+
+.btn {
+  background-color: lightgray;
+  border: none;
+  color: black;
+  border-radius: 50%;
+}
+
+.navbar {
+  display: flex;
+}
+
+p {
+  color: white;
+}
