@@ -1,5 +1,6 @@
 body {
   background-color: #4288e8;
+  height: 90vh;
 }
 
 h1 {
@@ -9,6 +10,11 @@ h1 {
 
 a {
   font-size: 0;
+}
+
+img {
+  width: 350px;
+  height: 350px;
 }
 
 .card-body {
